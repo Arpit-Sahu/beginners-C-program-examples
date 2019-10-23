@@ -37,15 +37,15 @@ int main()
     {
         printf("\n\nDisplaying Information of students no : %d\n\n",i+1);
 
-        printf("Name: ");
-        puts(s[i].name);
-        printf("\n");
+     printf("Name: ");
+     puts(s[i].name);
+     printf("\n");
 
-        printf("Roll number: %d\n",s[i].roll);
-        printf("\n");
+     printf("Roll number: %d\n",s[i].roll);
+     printf("\n");
 
-        printf("Marks: %.1f\n", s[i].marks);
-        printf("\n");
+     printf("Marks: %.1f\n", s[i].marks);
+     printf("\n");
 
 
 
